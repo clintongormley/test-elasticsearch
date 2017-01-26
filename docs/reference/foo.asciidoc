@@ -1,0 +1,6 @@
+= Foo 
+
+== Some title from Foo
+
+Some text
+
