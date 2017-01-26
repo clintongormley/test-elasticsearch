@@ -1,0 +1,4 @@
+include::[foo.asciidoc]
+
+include::[bar.asciidoc]
+
